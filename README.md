@@ -138,6 +138,7 @@ template.js从0.2.0开始支持[fis](http://fis.baidu.com/)，详情请看[这�
 [TODO.md](TODO.md)
 
 ## 谁在使用
+- [百度知道](http://zhidao.baidu.com/)
 - [百度经验](http://jingyan.baidu.com/)
 - [百度师傅](http://shifu.baidu.com/)
 
